@@ -30,3 +30,5 @@ fields:
   config:
     maxSize: 10
   label: Poster
+pages:
+- src/blog/nic-test.md
